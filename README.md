@@ -10,7 +10,7 @@ The repository contains `Dockerfile`, `docker compose` and a `notebook\` folder,
 
 **STEP 2:** `cd Machine-Learning-on-Alpine-ML-Image/`
 
-**STEP 3 (Only for linux user/ In windows it comes preinstalled):** 
+**STEP 3 (Only for linux user/ In windows it comes preinstalled):** Install docker compose
 
 `sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose`
 
