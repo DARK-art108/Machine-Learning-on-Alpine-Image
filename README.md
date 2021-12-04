@@ -10,7 +10,7 @@ The repository contains `Dockerfile`, `docker compose` and a `notebook\` folder,
 
 **STEP 2:** `cd Machine-Learning-on-Alpine-ML-Image/`
 
-**STEP 3:** 
+**STEP 3 (Only for linux user/ In windows it comes preinstalled):** 
 
 `sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose`
 
@@ -22,7 +22,7 @@ The repository contains `Dockerfile`, `docker compose` and a `notebook\` folder,
 
 **STEP 4:** Run: `docker-composer up` and open your browser in `http://<public_ip>:8888`
 
-**STEP 5:** Now you can run your notebook `http://<public_ip>:8888` and please wait for sometime until the kernel is ready.
+**STEP 5:** Now you can run your notebook `http://localhost:8888` or `http://<public_ip>:8888` and please wait for sometime until the kernel is ready.
 
 ## **References:**
 
