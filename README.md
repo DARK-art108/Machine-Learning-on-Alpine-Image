@@ -1,4 +1,4 @@
-# Machine Learning on Alpine Machine Image
+# Machine Learning on Alpine Docker Image
 
 This repository holds a Dockerfile and Docker Compose for running Machine Learning Workloads on Alpine Docker Image.The Machine Learning Project is Bank Note Authetication you can get to know to about the project from [Bank Note Authentication](https://github.com/DARK-art108/Bank-Note-Authentication).
 
