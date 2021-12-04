@@ -27,3 +27,5 @@ The repository contains `Dockerfile`, `docker compose` and a `notebook\` folder,
 ## **References:**
 
 > petronetto/machine-learning-alpine
+
+> https://docs.docker.com/compose/install/
